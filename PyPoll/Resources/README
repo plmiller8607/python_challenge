@@ -1,0 +1,23 @@
+Python PyPoll Challenge
+Overview
+This Python script is designed to help a fictionalized small, rural town modernize its vote-counting process. It utilizes a dataset called election_data_csv to analyze votes. The script calculates total number of votes cast, list of candidates who received votes, percentage of votes each candiddate won, total number of votes each candiddate won, and the winner of the election based on popular vote.
+
+Features
+Load data from CSV file.
+Print to the terminal
+Export analysis results to a text file.
+Jupyter notebook file(optional).
+
+Usage
+Import the required Python libraries 
+Place current financial data in a file named election_data.csv.
+Run the script pypoll.py to perform the analysis.S
+View the generated analysis results in election_analysis.txt.
+
+Dependencies
+csv
+os
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+

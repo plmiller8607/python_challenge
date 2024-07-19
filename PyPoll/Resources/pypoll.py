@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[69]:
-
 
 # Import Dependencies (modules)
 import csv, os
@@ -15,7 +10,7 @@ import csv, os
         # filename = "election_data.csv"
     #output
         #directory = "."
-        # filename = "budget_analysis.txt"
+        # filename = "election_analysis.txt"
 
 file_to_load=os.path.join(".","election_data.csv")
 file_to_output=os.path.join(".","election_analysis.txt")
